@@ -1,1 +1,2 @@
-# R语言
+# R
+learn using R for data analysis
